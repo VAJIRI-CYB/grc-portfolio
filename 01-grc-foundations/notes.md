@@ -3,7 +3,7 @@
 
 **Judgment calls:**
 
-- Chose a credential-phishing incident deliberately: it's the most common real-world
+- Simulated a credential-phishing incident deliberately: it's the most common real-world
   incident type, and it fails across three control families at once (authentication,
   awareness, monitoring) — perfect for showing control-failure analysis.
   
