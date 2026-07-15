@@ -37,7 +37,7 @@ Six years in SOC and security operations taught me to *operate* the controls —
 
 ## Decisions & lessons per phase
 
-Each folder contains a short `NOTES.md` — the judgment calls behind the artifact (e.g., *why control A.7.4 was excluded from the SoA*, *why the access-review finding was rated a major nonconformity*, *why MapleTech should pursue SOC 2 before ISO certification*). The documents show what I built; the notes show how I think.
+Each folder contains a short `NOTES.md` — the judgment calls behind the artifact (e.g., *why control A.7.4 was excluded from the SoA*, *why the access-review finding was rated a major nonconformity*, *why NOVAtech should pursue SOC 2 before ISO certification*). The documents show what I built; the notes show how I think.
 
 ## Grounding in real experience
 
