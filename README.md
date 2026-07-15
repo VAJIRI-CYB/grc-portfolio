@@ -7,7 +7,7 @@
 
 ## What this is
 
-A complete, self-directed GRC practicum: I designed, documented, and internally audited a full **Information Security Management System (ISMS)** for a fictional company — **MapleTech Inc.**, a 200-person Canadian B2B SaaS handling customer PII in AWS — following **ISO/IEC 27001:2022**, **ISO 27005**, and **PIPEDA** requirements.
+A complete, self-directed GRC practicum: I designed, documented, and internally audited a full **Information Security Management System (ISMS)** for a fictional company — **NOVAtech Inc.**, a 200-person Canadian B2B SaaS handling customer PII in AWS — following **ISO/IEC 27001:2022**, **ISO 27005**, and **PIPEDA** requirements.
 
 > ⚠️ **NOVAtech Inc. is entirely fictional.** All scenarios, findings, and data are simulated for demonstration. No artifact here derives from any current or former employer.
 
