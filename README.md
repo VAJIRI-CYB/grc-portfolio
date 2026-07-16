@@ -9,7 +9,7 @@
 
 A complete, self-directed GRC practicum: I designed, documented, and internally audited a full **Information Security Management System (ISMS)** for a fictional company — **NOVAtech Inc.**, a 200-person Canadian B2B SaaS handling customer PII in AWS — following **ISO/IEC 27001:2022**, **ISO 27005**, and **PIPEDA** requirements.
 
-> ⚠️ **NOVAtech Inc. is entirely fictional.** All scenarios, findings, and data are simulated for demonstration. No artifact here derives from any current or former employer.
+> NOTES **NOVAtech Inc. is entirely fictional.** All scenarios, findings, and data are simulated for demonstration. No artifact here derives from any current or former employer.
 
 Every document interlocks the way a real ISMS does: risks in the register map to controls in the Statement of Applicability, controls are governed by the policies, and the capstone internal audit tests those same policies — producing findings and corrective actions that feed back into the register.
 
