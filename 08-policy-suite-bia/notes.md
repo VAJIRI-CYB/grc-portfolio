@@ -21,7 +21,7 @@
   Flat cadences either over-burden reviewers or under-protect crown jewels.
 - BIA scored impact at 4h / 24h / 72h / 1 week rather than as a single number, because
   impact is rarely linear. The RTO is set where impact crosses from tolerable to
-  unacceptable — a defensible derivation rather than a guess.
+  unacceptable ; a defensible derivation rather than a guess.
 - Let the BIA surface a real gap rather than tidying it away: the support ticketing
   vendor has no contractually committed RTO, so the 24-hour objective isn't guaranteed
   by anyone. That gap feeds the risk register and the next vendor reassessment.
